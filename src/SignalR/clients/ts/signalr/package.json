@@ -42,7 +42,7 @@
     "@types/request": "^2.47.1"
   },
   "dependencies": {
-    "ws": "^6.0.0",
+    "ws": "^7.4.6",
     "eventsource": "^1.0.7",
     "request": "^2.88.0"
   }
