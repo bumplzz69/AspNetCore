@@ -15,6 +15,6 @@
     "aspnet-webpack": "^1.0.3",
     "ts-loader": "^0.8.1",
     "typescript": "^2.0.0",
-    "webpack": "^1.13.3"
+    "webpack": "^3.0.0"
   }
 }
