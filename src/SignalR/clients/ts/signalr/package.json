@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "ws": "^6.0.0",
-    "eventsource": "^1.0.7",
+    "eventsource": "^1.1.2",
     "request": "^2.88.0"
   }
 }
