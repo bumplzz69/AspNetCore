@@ -44,6 +44,6 @@
   "dependencies": {
     "ws": "^6.0.0",
     "eventsource": "^1.0.7",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   }
 }
